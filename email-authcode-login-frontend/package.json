@@ -1,5 +1,5 @@
 {
-  "name": "email-authCode-login-frontend",
+  "name": "email-authcode-login-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
